@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Objeção Vida (DNA)
     setupRefutation('btn-refute-vida', 'refute-vida-text');
+    setupRefutation('btn-refute-biogenese', 'refute-biogenese-text');
 
     // Objeção Moral
     setupRefutation('btn-refute-moral', 'refute-moral-text');
